@@ -1,0 +1,231 @@
+
+.logo{
+    width: 149px;
+height: 36px;
+margin-top: 29px;
+margin-left:20px;
+
+}
+.link{
+    color: #FFF;
+    font-family: Mazzard;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.44px;
+    text-transform: uppercase; 
+    padding: 20px;
+}
+.div-links{
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 10%;
+    width: 100%;
+}
+
+.buy{
+    display: flex;
+    margin-left: 100px;
+    height:56px;
+
+
+}
+.buy-ticket{
+    width: 241px;
+
+
+border-radius: 50px;
+background: #FFF; 
+margin-left: 165px;
+height: 52px;
+text-transform: uppercase; 
+    font-size: 14px;
+    
+}
+@media (max-width: 1458px) {
+    .buy-ticket {
+        visibility: hidden !important;    }
+}
+.paragraph{
+    color: #FFF;
+font-family: Ethnocentric;
+font-size: 70px;
+font-style: normal;
+font-weight: 400;
+line-height: 0;
+letter-spacing: 5.6px;
+text-transform: uppercase; 
+}
+.paragraph1{
+    color: #FFF;
+    font-family: Mazzard;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    width:660px 
+}
+.text{
+    margin-top:    132px !important;
+    margin-left: 100px !important;
+    align-items: left;
+    height: 393px;
+  width: 867px;
+  margin: auto;
+  position: absolute;
+
+}
+.profile-pic{
+    width: 56px;
+height: 56px;
+border-radius: 56px;
+border: 2px solid #8D36DF; 
+margin-right: -15px !important;
+}
+.profile-div{
+    position:absolute;
+    margin-left: 100px !important;
+}
+.skilled-div{
+    position: absolute;
+    display: inline;
+    padding-left: 15px;
+    width: 155px;
+    margin:10px;
+}
+.timer-div{
+    margin-top: 75px;
+    position: absolute;
+    margin-left: 100px;}
+
+    .timer-div2{
+        border-radius: 10px;
+        background: linear-gradient(180deg, #CB00FF 0%, rgba(86, 3, 180, 0.00) 100%);
+        width: 110px;
+        height: 117px;
+        display: inline-block;
+        color: #FFF;
+        padding: 0;
+        margin: 9px;
+    }
+    .timer-paragraph{
+        color: #FFF;
+text-align: center;
+font-family: Mazzard;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 34px; /* 51.515% */
+letter-spacing: 2.64px; 
+    }
+    .button1{
+        width: 241px;
+        height: 56px; 
+        border-radius: 50px;
+        background: #FFF; 
+        margin-top: 16px !important;
+        margin: 10px;
+          margin-top: 10px;
+          margin-left: 10px;
+        margin-left: -9px;    }
+    .button2{
+        width: 241px;
+height: 56px; 
+border-radius: 50px;
+background: linear-gradient(87deg, #8D36DF 23.55%, #580A90 93.67%);
+box-shadow: 0px 15px 22px 0px rgba(0, 0, 0, 0.25); 
+    }
+     .register-button{
+        width: 68%;
+height: 70px; 
+  position: absolute;
+  margin-top: 38%;
+  margin-left: 100px;
+  border-radius: 200px;
+background: #FFF; 
+    }
+    .register-paragraph{
+        color: #000014;
+        font-family: Mazzard;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 30px;
+    }
+    .icons-div{
+        width: 100%;
+        height: 144px;
+        background: #000014;
+        position: absolute;
+        margin-top: 53.1em;
+}
+.icon{
+    padding:35px;
+}
+.about{
+    height: 54em;
+    width: 100%;
+    background: white;
+    position: absolute;
+    margin-top: 59em;
+
+}
+.about1{
+    width: 34%;
+ float: left;
+ margin-top:120px;
+ margin-left:250px;
+}
+.about2{
+    width: 34%;
+ float: right;
+ margin-top:120px;
+ margin-right: 200px;
+
+}
+.about-paragraph{
+    color: #C7C0B6;
+font-family: Ethnocentric;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase; 
+text-align: left;
+}
+.about-1{
+    color: #000014;
+font-family: Mazzard;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 52px; /* 120% */
+text-transform: uppercase; 
+text-align: left;
+
+}
+.about-2{
+    color: #8D36DF;
+font-family: Mazzard;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 0px;
+text-transform: uppercase; 
+}
+.about-2-paragraph{
+    color: #2D3239;
+font-family: Mazzard;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */ 
+text-align: left;
+justify-content: left;
+}
+.link:hover{
+    background: linear-gradient(180deg, rgba(203, 0, 255, 0.50) 0%, rgba(141, 54, 223, 0.00) 100%);
+
+}
+

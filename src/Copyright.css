@@ -1,0 +1,50 @@
+.copyright-header{
+
+
+    margin-top: 80em;
+    width: 95em; /* Adjust the width as needed */
+    height: 300px; /* Adjust the height as needed */
+    position: relative;
+    }
+ .copyright-div{
+      align-items: center;  
+      justify-content: center;
+      height: 100px;
+      width: auto;
+        margin-left: 2%;
+        margin-top: -550px;
+
+    }
+    .copyright-p1{
+        color: #FFF;
+        text-align: center;
+        font-family: Mazzard;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1; /* 120% */
+        text-transform: uppercase; 
+        }
+        .copy-p1{
+            color: #FFF;
+font-family: Mazzard;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 72px;
+text-transform: uppercase; 
+        }
+        .copy-p2{
+            color: #FFF;
+text-align: center;
+font-family: Mazzard;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 10px;
+        }
+        .section-image{
+            height:600px;
+            width: 100%;
+        }
+    

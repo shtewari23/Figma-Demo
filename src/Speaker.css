@@ -1,0 +1,101 @@
+.speaker-header{
+
+
+margin-top: 58em;
+width: 95em; /* Adjust the width as needed */
+height: 300px; /* Adjust the height as needed */
+overflow: hidden;
+border-radius: 0 0 180px 0px; /* Adjust the border-radius to control the level of rounding */
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional: Add a box shadow for a lifted effect */
+position: relative;
+}
+
+
+
+.rounded-image {
+    width: 95em;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0 0 0 20px; /* Match the border-radius of the container */
+}
+.speaker-par{
+    position: absolute;
+  margin-top: -15%;
+align-items: center;  
+justify-content: center;
+height: 100px;
+width: auto;
+  margin-left: 2%;
+}
+.para{
+color: #E79FFF;
+text-align: center;
+font-family: Ethnocentric;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px; /* 188.889% */
+text-transform: uppercase; 
+}
+.span1{
+    color: #FFF;
+text-align: center;
+font-family: Mazzard;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 72px; /* 120% */
+text-transform: uppercase; 
+}
+.span2{
+    color: #FFF;
+text-align: center;
+font-family: Mazzard;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 166.667% */ 
+}
+.speaker-icon{
+    position: absolute;
+  margin-top: 3%;
+align-items: center;  
+justify-content: center;
+height: 100px;
+width: auto;
+  margin-left: 1%;
+}
+.icon1{
+    display: inline-block;
+    padding: 20px ;
+    margin: 20px;
+    border-radius: 180px;
+    /* border: 1px solid #5603B4;  */
+}
+.person{
+    width: 318px;
+height: 414px; 
+border-radius: 150px;
+
+}
+.name{
+    color: #8D36DF;
+text-align: center;
+font-family: Mazzard;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 72px; 
+margin-top: 100px;
+}
+.designation{
+    color: #626F7E;
+text-align: center;
+font-family: Mazzard;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 514.286% */
+letter-spacing: 0.7px;
+text-transform: uppercase; 
+}
